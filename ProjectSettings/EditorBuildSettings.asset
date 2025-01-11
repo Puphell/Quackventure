@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1SAHNE/MAIN MENU.unity
+    guid: dd2d2aecd15bb2f4097351bee429d786
+  - enabled: 1
+    path: Assets/1SAHNE/SAHNE 1.unity
+    guid: 6c4de096952a5394287b93aa50029948
+  - enabled: 1
+    path: Assets/1SAHNE/SAHNE 2.unity
+    guid: e36e52be5b356bc47a8400ae2046aebc
+  - enabled: 1
+    path: Assets/1SAHNE/SAHNE 3.unity
+    guid: 116107f106545e848b82ffe7f51277b4
+  - enabled: 1
+    path: Assets/1SAHNE/SAHNE 4.unity
+    guid: ee470b9147baa7743b955d41bd8afbb0
+  - enabled: 1
+    path: Assets/1SAHNE/SAHNE 5.unity
+    guid: 444181691d382f2488b72b757ea1028d
+  - enabled: 1
+    path: Assets/1SAHNE/SAHNE 6.unity
+    guid: 55dcb68dfca12054fabf7d6907adb9e8
+  - enabled: 1
+    path: Assets/1SAHNE/SAHNE 7.unity
+    guid: b7e34a0be8d8ef443b7bbb4f4ad47747
+  - enabled: 1
+    path: Assets/1SAHNE/SAHNE 8.unity
+    guid: e03f860baf0456342bc4abe961218e1d
+  - enabled: 1
+    path: Assets/1SAHNE/SAHNE 9.unity
+    guid: 51d9320ff6e2fea41907671ffb3ed0af
+  - enabled: 1
+    path: Assets/1SAHNE/SAHNE 10.unity
+    guid: 1e1962f2332cd1d419ef9d963d629c0d
+  - enabled: 1
+    path: Assets/1SAHNE/LEVELS.unity
+    guid: 3fd842ffd21966b43b90c560fbba566b
+  - enabled: 1
+    path: Assets/1SAHNE/CREDIT.unity
+    guid: 75e5384ca4bda634499daa00aa58bce5
+  - enabled: 1
+    path: Assets/1SAHNE/OPTIONS.unity
+    guid: 7c497218e06083b4398e10417779c7b7
+  - enabled: 1
+    path: Assets/1SAHNE/Season1.unity
+    guid: c20fa47cb5148e44fa3d6f847677ff32
+  - enabled: 1
+    path: Assets/1SAHNE/SKINS.unity
+    guid: 6190f197792a9e640a0a96b2fec3c613
+  - enabled: 1
+    path: Assets/1SAHNE/MiniGameScene.unity
+    guid: f8baf25472ec2ca49a0ed402144dde14
+  - enabled: 1
+    path: Assets/1SAHNE/MiniGameJumpGame.unity
+    guid: a7d9e1ed37fed7946a73c239dc5665de
+  - enabled: 1
+    path: Assets/1SAHNE/MiniGameLevelScene.unity
+    guid: 824d680c87bc89240a7809f2d6227599
+  - enabled: 1
+    path: Assets/1SAHNE/MemoryGameScene.unity
+    guid: 53bc88c43bd55454ebea482a128eca04
+  - enabled: 1
+    path: Assets/1SAHNE/MiniGameCub.unity
+    guid: ef63e54bcab7e2a4a8b57723634f67b7
+  - enabled: 1
+    path: Assets/1SAHNE/MiniGamePuzzle.unity
+    guid: 4752f1c2a4cf0c14ab7bd1ae969f02a4
+  - enabled: 1
+    path: Assets/1SAHNE/TutorialScene.unity
+    guid: 1bac5f5fcdbcd0d4e954797bdc36a112
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: d065fd379a7718042b0ae91bb65a6a96, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 4473c50b475e50141a26171d4db03987, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: f20cd9d8c231cbf42bcbdec59cd2620c, type: 2}
